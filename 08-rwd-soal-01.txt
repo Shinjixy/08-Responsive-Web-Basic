@@ -1,0 +1,26 @@
+Soal - 01
+Kamu diminta untuk melakukan analisa sederhana terhadap beberapa masalah dan tuliskan jawaban kamu di dalam file 08-rwd-soal-01.txt.
+
+Apa itu responsive web design?
+-> RWD atau responsive web design bertujuan untuk membuat desain website agar dapat diakses dalam device apapun.
+
+Sebutkan apa saja relative units yang dimiliki oleh CSS?
+-> CSS unit adalah satuan untuk menentukan ukuran dari suatu elemen atau kontennya.
+ relative unit CSS :
+    %: Ukurannya relatif terhadap parent element
+    em: Ukurannya relatif terhadap font-size dari elemen saat ini
+    rem: Ukurannya relatif terhadap font-size root elemen (<html>). "rem" = "root em"
+    ch: Ukurannya mengikuti jumlah karakter (1 karakter sama dengan lebar dari karakter 0/nol font yang sedang aktif)
+    vh: Ukurannya relatif terhadap tinggi viewport (ukuran jendela tau aplikasi), 1vh = 1/100 dari tinggi viewport
+    vw: Ukurannya relatif terhadap lebar dari viewport. 1vw = 1/100 lebar viewport
+    vmin: Ukurannya relatif terhadap ukuran viewport yang lebih kecil (misalnya diorientasi portrait, lebar akan lebih kecil daripada tinggi). 1vmin = 1/100 dari ukuran viewport yang lebih kecil.
+    vmax: Sama dengan vmin, dia akan melihat ukuran viewport yang lebih besar
+    ex: Ukurannya relatif terhadap tinggi dari karakter "x" kecil font yang sedang aktif.
+
+Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+-> breakpoint adalah batas/perubahan yang terjadi pada tampilan saat berganti device atau ukuran width.
+
+Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi?
+-> 
+
+Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi?
